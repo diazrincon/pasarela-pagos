@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "1",
+    "name": "Camiseta",
+    "description": "Camiseta de algodón",
+    "imageURL": "https://media.istockphoto.com/photos/blank-white-tshirt-front-with-clipping-path-picture-id482948743?k=6&m=482948743&s=612x612&w=0&h=I489cdYoqvON3yrdr6ZZAQOGu_qthEDp1eG-c8FpKjw=",
+    "price": 75000
+  },
+  {
+    "uid": "2",
+    "name": "Pantalón",
+    "description": "Pantalón de lino",
+    "imageURL": "https://www.skiwebshop.com/media/catalog/product/cache/9f8677020214ab5893dcfde33298a1d1/d/e/descente-stock-skibroek-heren-zwart-ba19desw16b-00.3738.jpg",
+    "price": 120000
+  },
+  {
+    "uid": "3",
+    "name": "Zapatos",
+    "description": "Zapatos deportivos",
+    "imageURL": "https://sc04.alicdn.com/kf/He818b530f34a46ac9f714a01daf958f3i.jpg",
+    "price": 100000
+  },
+  {
+    "uid": "4",
+    "name": "Chaqueta",
+    "description": "Abrigo camuflado",
+    "imageURL": "https://assets.bigcartel.com/product_images/70876527/harry_front.jpg?auto=format&fit=max&h=1000&w=1000",
+    "price": 200000
+  },
+  {
+    "uid": "5",
+    "name": "Medias",
+    "description": "Medias tobilleras",
+    "imageURL": "https://image.made-in-china.com/202f0j10qApTwMZGLdzH/Wholesale-Stock-Red-Cotton-Women-Ankle-Socks-Christmas-Socks.jpg",
+    "price": 15000
+  }
+]
